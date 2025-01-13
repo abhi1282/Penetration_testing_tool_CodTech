@@ -26,6 +26,11 @@ Vulnerability Scanner: Uses Nmap to identify open ports and potential vulnerabil
 
 Packet Sniffer: Captures and displays network packets in real time.
 
+**Structure**
+
+![Screenshot 2025-01-13 092145](https://github.com/user-attachments/assets/4e8bde4c-dfb9-4d98-8c8f-3cbe4335dc50)
+
+
 How to Use the Tool
 
 Set Up the Toolkit:
